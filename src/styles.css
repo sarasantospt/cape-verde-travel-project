@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background:  #272044;
+  background: #272044;
 }
 
 .container {
@@ -8,7 +8,7 @@ body {
   margin: 0 auto;
 }
 
-.text-center{
+.text-center {
   text-align: center;
 }
 
@@ -19,14 +19,14 @@ body {
 
 .img-responsive {
   width: 100%;
-  display:block;
+  display: block;
 }
 
 .grid-2-columns {
   grid-template-columns: 1fr 1fr;
 }
 
-.grid-3-columns{
+.grid-3-columns {
   grid-template-columns: 1fr 1fr 1fr;
 }
 
@@ -34,33 +34,33 @@ body {
   grid-template-columns: 1fr 2fr 2fr;
 }
 
-.embed{
+.embed {
   width: 100%;
   aspect-ratio: 1/1;
 }
 
-.instagram-embeds{
+.instagram-embeds {
   margin: 30px 0;
 }
 
-.card{
+.card {
   background-color: white;
   margin: 30px 0;
 }
 
-.card-header.grid{
-grid-gap: 0;
+.card-header.grid {
+  grid-gap: 0;
 }
 
-.card-body{
+.card-body {
   padding: 30px;
 }
 
-.card-footer{
+.card-footer {
   padding: 0 30px 30px;
 }
 
-.btn{
+.btn {
   display: block;
   color: white;
   font-weight: 700;
@@ -70,7 +70,7 @@ grid-gap: 0;
   letter-spacing: 3px;
   text-transform: uppercase;
   padding: 16px;
-  background-color: #462CB3;
+  background-color: #462cb3;
   text-decoration: none;
 }
 
@@ -80,7 +80,7 @@ section {
   padding: 100px;
 }
 
-section.secondary{
+section.secondary {
   background: #f8f8f8;
 }
 
@@ -155,7 +155,7 @@ main h3 {
   margin: 0;
 }
 
-main h4{
+main h4 {
   font-weight: 700;
   font-size: 24px;
   line-height: 1;
@@ -163,10 +163,10 @@ main h4{
   margin: 0;
 }
 
-main h5{
+main h5 {
   font-weight: 700;
   font-size: 13px;
-  margin:0;
+  margin: 0;
   line-height: 1;
   color: #272044;
 }
@@ -245,11 +245,11 @@ footer a {
     padding: 30px;
   }
 
-  .card-header img{
+  .card-header img {
     display: none;
   }
 
-  .embed{
+  .embed {
     aspect-ratio: 16/9;
   }
 }
